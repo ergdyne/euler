@@ -6,7 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Primes/Check.fs" />
     <Compile Include="Primes/Generate.fs" />
+    <Compile Include="Primes/DigitReplacement.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
