@@ -6,9 +6,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Functions/Union.fs" />
+    <Compile Include="Operators/Types.fs" />
+    <Compile Include="Operators/Calculate.fs" />
     <Compile Include="Primes/Check.fs" />
     <Compile Include="Primes/Generate.fs" />
-    <Compile Include="Primes/DigitReplacement.fs" />
+    <Compile Include="Solutions/DigitReplacement.fs" />
+    <Compile Include="Solutions/ArithmeticExpressions.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
