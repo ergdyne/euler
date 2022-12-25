@@ -1,6 +1,3 @@
-﻿
-open Primes
+﻿open Solutions
 
-// For more information see https://aka.ms/fsharp-console-apps
-
-printfn "%A" (DigitReplacement.matchCount 8)
+printfn "%A" (ArithmeticExpressions.longest())

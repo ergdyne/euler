@@ -1,4 +1,6 @@
-module Primes.DigitReplacement
+module Solutions.DigitReplacement
+
+open Primes
 
 let baseSets = [
     Set.empty.Add(0)

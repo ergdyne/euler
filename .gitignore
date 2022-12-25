@@ -46,7 +46,6 @@ msbuild.wrn
 # Built Visual Studio Code Extensions
 *.vsix
 
-
 # User-specific files
 *.suo
 *.user
